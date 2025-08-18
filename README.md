@@ -1,2 +1,2 @@
-Yapay Zeka mühendisi 
+Yapay Zeka mühendisi, 
 Endüstri mühendisi
