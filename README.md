@@ -1,5 +1,16 @@
 # 💫 About Me:
-Industrial & AI Engineering Student
+Industrial Engineering & AI Engineering Student
+
+💼 My Areas of Expertise:
+📊 Project planning and management methodologies
+📈 Data Analysis
+🧩 Project and Risk Management
+🔍 Data Science Project Cycle
+🤖 Artificial Intelligence Ethics
+🧠 Artificial Intelligence-Focused Project Management
+🚀 Innovative Artificial Intelligence Applications
+📐 Operations Research
+💻 C Programming (Intermediate – Advanced Level)
 
 
 # 💻 Tech Stack:
