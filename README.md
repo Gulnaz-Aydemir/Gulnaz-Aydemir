@@ -1,7 +1,7 @@
 # 💫 About Me:
 Industrial Engineering & AI Engineering Student
 
-💼 My Areas of Expertise:  
+💼 my interests:  
 📊 Project planning and management methodologies  
 📈 Data Analysis  
 🧩 Project and Risk Management  
