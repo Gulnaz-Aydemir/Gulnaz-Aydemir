@@ -1,5 +1,5 @@
 # 💫 About Me:
-Industrial Engineering & AI Engineering Student
+Industrial Engineer & AI Engineer
 
 💼 my interests:  
 📊 Project planning and management methodologies  
