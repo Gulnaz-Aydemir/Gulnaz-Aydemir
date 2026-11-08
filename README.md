@@ -1,7 +1,7 @@
 # 💫 About Me:
 Industrial Engineer & AI Engineer
 
-🎓 Industrial Engineering & Artificial Intelligence Engineering Graduate | ERP Systems Engineer
+🎓 Industrial Engineering & Artificial Intelligence Engineering Graduate | ERP Systems Engineer.
 
 ⚙️ Working on ERP systems, industrial process automation, digital transformation, and data-driven solutions.
 
